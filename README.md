@@ -21,7 +21,7 @@ A full-stack productivity tool combining scientific theories, eye-care reminders
 | Project | Focus | Key Tech Stack |
 | :--- | :--- | :--- |
 | **[iCares](https://i-cares.vercel.app)** | Productivity & Eye-Care | **Next.js**, React, FastAPI, Supabase |
-| **Taipei Day Trip** | E-commerce & Payment | **AWS EC2**, MySQL, Python, TapPay |
+| **[Taipei Day Trip](https://taipeidaytrip.duckdns.org/)** | E-commerce & Payment | **AWS EC2**, MySQL, Python, TapPay |
 <p>
   <a href="https://github.com/heartwar9420/iCares">
     <img src="https://github-stats.ubrong.com/api/pin/?username=heartwar9420&repo=iCares&theme=dark" />
