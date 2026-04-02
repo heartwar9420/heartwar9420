@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Jun Peng
+# Hi 👋, I'm Jun
 
 ### A passionate Frontend Engineer with a background in complex system integration.
 
