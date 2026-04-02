@@ -46,12 +46,5 @@ A full-stack productivity tool combining scientific theories, eye-care reminders
 
 ---
 
-### 🔗 Connect with me
-
-<p>
-  <a href="https://github.com/heartwar9420" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="heartwar9420" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/heartwar9420" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heartwar9420" height="30" width="40" /></a>
-  <a href="https://leetcode.com/heartwar9420" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="heartwar9420" height="30" width="40" /></a>
-</p>
 
 </div>
