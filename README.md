@@ -35,14 +35,22 @@ A full-stack productivity tool combining scientific theories, eye-care reminders
 
 ### 📊 GitHub Stats & Skills
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/heartwar9420?theme=dark&font=Recursive" alt="LeetCode Stats" />
+</p>
+
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,py,fastapi,mysql,aws,supabase,git,github,vercel" alt="Skills" />
 </p>
 
+<div align="center">
+
 <p align="center">
-  <img src="https://github-stats.ubrong.com/api?username=heartwar9420&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" />
-  <img src="https://github-stats.ubrong.com/api/top-langs/?username=heartwar9420&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
+  <img src="https://github-stats.ubrong.com/api?username=heartwar9420&show_icons=true&theme=tokyonight" height="165" alt="GitHub Stats" />
+  <img src="https://github-stats.ubrong.com/api/top-langs/?username=heartwar9420&layout=compact&theme=tokyonight" height="200" alt="Top Languages" />
 </p>
+
+</div>
 
 ---
 
